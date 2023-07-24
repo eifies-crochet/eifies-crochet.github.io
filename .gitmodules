@@ -1,0 +1,3 @@
+[submodule "sommie"]
+	path = sommie
+	url = git@github.com:eifies-crochet/sommie.git
